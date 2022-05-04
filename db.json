@@ -39,6 +39,7 @@
             "title": "Channel_Content 1",
             "image_thumbnail": "https://cdn.pixabay.com/photo/2020/04/20/18/10/cinema-5069314__340.jpg",
             "description": "This is content 1",
+            "time_created": "27 April 2022 at 00:30:56 UTC+1",
             "category": [
                 "Crime"
             ]
@@ -48,6 +49,7 @@
             "title": "Channel_Content 1",
             "image_thumbnail": "https: //cdn.pixabay.com/photo/2016/11/15/07/09/photo-manipulation-1825450__340.jpg",
             "description": "This is content 2",
+            "time_created": "27 April 2022 at 00:30:56 UTC+1",
             "category": [
                 "Crime",
                 "Drama"
@@ -58,6 +60,7 @@
             "title": "Channel_Content 1",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329583",
             "description": "This is content 1",
+            "time_created": "27 April 2022 at 00:30:56 UTC+1",
             "category": [
                 "Comedy"
             ]
@@ -67,6 +70,7 @@
             "title": "Channel_Content 2",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329583",
             "description": "This is content 1",
+            "time_created": "27 April 2022 at 00:30:56 UTC+1",
             "category": [
                 "Comedy"
             ]
@@ -76,6 +80,7 @@
             "title": "Channel_Content 1",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329583",
             "description": "This is content 1",
+            "time_created": "27 April 2022 at 00:30:56 UTC+1",
             "category": [
                 "Comedy"
             ]
@@ -85,6 +90,7 @@
             "title": "Channel_Content 2",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329583",
             "description": "This is content 1",
+            "time_created": "27 April 2022 at 00:30:56 UTC+1",
             "category": [
                 "Comedy"
             ]
@@ -94,6 +100,7 @@
             "title": "Channel_Content 1",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329583",
             "description": "This is content 1",
+            "time_created": "27 April 2022 at 00:30:56 UTC+1",
             "category": [
                 "Comedy"
             ]
@@ -103,6 +110,7 @@
             "title": "Channel_Content 2",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329583",
             "description": "This is content 1",
+            "time_created": "27 April 2022 at 00:30:56 UTC+1",
             "category": [
                 "Comedy"
             ]
