@@ -1,0 +1,34 @@
+[
+    {
+        "ownerID": "001",
+        "title": "Channel 1",
+        "imageURL": "https://www.gettyimages.com/gi-resources/images/500px/983794168.jpg",
+        "category": "Gaming",
+        "description": "This is channel 1",
+        "followers": 5500
+    },
+    {
+        "ownerID": "002",
+        "title": "Channel 2",
+        "imageURL": "https://cdn.pixabay.com/photo/2022/02/23/05/10/tiramisu-7030032_960_720.jpg",
+        "category": "Fashoin",
+        "description": "This is channel 2",
+        "followers": 300
+    },
+    {
+        "ownerID": "003",
+        "title": "Channel 3",
+        "imageURL": "https://cdn.pixabay.com/photo/2022/01/22/16/54/book-6957870__480.jpg",
+        "category": "Music",
+        "description": "This is channel 3",
+        "followers": 10000
+    },
+    {
+        "ownerID": "004",
+        "title": "Channel 4",
+        "imageURL": "https://cdn.pixabay.com/photo/2021/09/26/20/49/world-6658881__340.jpg",
+        "category": "Education",
+        "description": "This is channel 4",
+        "followers": 300500
+    }
+]
