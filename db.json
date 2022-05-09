@@ -47,7 +47,7 @@
         },
         {
             "ownerID": "001",
-            "title": "Channel_Content 1",
+            "title": "Channel_Content 2",
             "image_thumbnail": "https://cdn.pixabay.com/photo/2016/11/15/07/09/photo-manipulation-1825450__340.jpg",
             "description": "This is content 2",
             "time_created": "27 December",
@@ -122,6 +122,33 @@
             "category": [
                 "Comedy"
             ]
+        }
+    ],
+    "users": [
+        {
+            "uid": "001",
+            "uName": "Marilyn Monroe",
+            "uImage": "https://cdn.pixabay.com/photo/2017/07/25/10/37/woman-2537564__340.jpg"
+        },
+        {
+            "uid": "002",
+            "uName": "Victor Lustig",
+            "uImage": "https://cdn.pixabay.com/photo/2015/01/08/18/29/entrepreneur-593358__340.jpg"
+        },
+        {
+            "uid": "003",
+            "uName": "Mark Anthony",
+            "uImage": "https://cdn.pixabay.com/photo/2015/08/05/04/25/people-875617__340.jpg"
+        },
+        {
+            "uid": "004",
+            "uName": "Cleopatra VII Philopator",
+            "uImage": "https://cdn.pixabay.com/photo/2018/03/01/14/57/portrait-3190849__340.jpg"
+        },
+        {
+            "uid": "005",
+            "uName": "Joseph Weil",
+            "uImage": "https://cdn.pixabay.com/photo/2018/04/27/03/50/portrait-3353699__340.jpg"
         }
     ]
 }
