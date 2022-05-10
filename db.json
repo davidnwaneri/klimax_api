@@ -1,4 +1,38 @@
 {
+    "preferences": [
+        {
+            "title": "Comedy",
+            "image": "https://cdn.pixabay.com/photo/2014/10/31/17/41/dancing-dave-minion-510835__340.jpg"
+        },
+        {
+            "title": "History",
+            "image": "https://cdn.pixabay.com/photo/2016/10/05/06/03/shakespeare-1716106__340.jpg"
+        },
+        {
+            "title": "Fiction",
+            "image": "https://cdn.pixabay.com/photo/2015/09/30/00/12/greenbox-964775__340.jpg"
+        },
+        {
+            "title": "Art",
+            "image": "https://cdn.pixabay.com/photo/2013/02/21/19/13/graffiti-84707__340.jpg"
+        },
+        {
+            "title": "Culture",
+            "image": "https://cdn.pixabay.com/photo/2020/11/07/06/28/man-5719988__340.png"
+        },
+        {
+            "title": "Technology",
+            "image": "https://cdn.pixabay.com/photo/2018/05/08/08/44/artificial-intelligence-3382507__340.jpg"
+        },
+        {
+            "title": "Education",
+            "image": "https://cdn.pixabay.com/photo/2020/01/07/06/52/fashion-4746903__340.jpg"
+        },
+        {
+            "title": "Health",
+            "image": "https://cdn.pixabay.com/photo/2018/01/01/01/56/yoga-3053488__340.jpg"
+        }
+    ],
     "channels": [
         {
             "ownerID": "001",
