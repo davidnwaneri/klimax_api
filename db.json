@@ -38,7 +38,7 @@
             "ownerID": "001",
             "title": "Channel 1",
             "imageURL": "https://cdn.pixabay.com/photo/2020/02/25/09/57/road-4878453__480.jpg",
-            "category": "Gaming",
+            "category": "Health",
             "description": "This is channel 1",
             "followers": 5500
         },
@@ -46,7 +46,7 @@
             "ownerID": "002",
             "title": "Channel 2",
             "imageURL": "https://cdn.pixabay.com/photo/2022/02/23/05/10/tiramisu-7030032_960_720.jpg",
-            "category": "Fashoin",
+            "category": "Technology",
             "description": "This is channel 2",
             "followers": 300
         },
@@ -54,7 +54,7 @@
             "ownerID": "003",
             "title": "Channel 3",
             "imageURL": "https://cdn.pixabay.com/photo/2022/01/22/16/54/book-6957870__480.jpg",
-            "category": "Music",
+            "category": "History",
             "description": "This is channel 3",
             "followers": 10000
         },
