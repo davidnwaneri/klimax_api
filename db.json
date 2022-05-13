@@ -70,6 +70,7 @@
     "channel_content": [
         {
             "ownerID": "001",
+            "type": "video",
             "title": "Channel_Content 1",
             "image_thumbnail": "https://cdn.pixabay.com/photo/2020/04/20/18/10/cinema-5069314__340.jpg",
             "description": "This is content 1",
@@ -81,6 +82,7 @@
         },
         {
             "ownerID": "001",
+            "type": "audio",
             "title": "Channel_Content 2",
             "image_thumbnail": "https://cdn.pixabay.com/photo/2016/11/15/07/09/photo-manipulation-1825450__340.jpg",
             "description": "This is content 2",
@@ -93,6 +95,7 @@
         },
         {
             "ownerID": "002",
+            "type": "video",
             "title": "Channel_Content 1",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329583",
             "description": "This is content 1",
@@ -104,6 +107,7 @@
         },
         {
             "ownerID": "002",
+            "type": "audio",
             "title": "Channel_Content 2",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-6366",
             "description": "This is content 1",
@@ -115,6 +119,7 @@
         },
         {
             "ownerID": "003",
+            "type": "video",
             "title": "Channel_Content 1",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329585",
             "description": "This is content 1",
@@ -126,6 +131,7 @@
         },
         {
             "ownerID": "003",
+            "type": "audio",
             "title": "Channel_Content 2",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329593",
             "description": "This is content 1",
@@ -137,6 +143,7 @@
         },
         {
             "ownerID": "004",
+            "type": "video",
             "title": "Channel_Content 1",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329598",
             "description": "This is content 1",
@@ -148,6 +155,7 @@
         },
         {
             "ownerID": "004",
+            "type": "audio",
             "title": "Channel_Content 2",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-37943",
             "description": "This is content 1",
