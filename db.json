@@ -36,6 +36,7 @@
     "channels": [
         {
             "ownerID": "001",
+            "isVideo": false,
             "title": "Channel 1",
             "imageURL": "https://cdn.pixabay.com/photo/2020/02/25/09/57/road-4878453__480.jpg",
             "category": "Health",
@@ -44,6 +45,7 @@
         },
         {
             "ownerID": "002",
+            "isVideo": true,
             "title": "Channel 2",
             "imageURL": "https://cdn.pixabay.com/photo/2022/02/23/05/10/tiramisu-7030032_960_720.jpg",
             "category": "Technology",
@@ -52,6 +54,7 @@
         },
         {
             "ownerID": "003",
+            "isVideo": true,
             "title": "Channel 3",
             "imageURL": "https://cdn.pixabay.com/photo/2022/01/22/16/54/book-6957870__480.jpg",
             "category": "History",
@@ -60,6 +63,7 @@
         },
         {
             "ownerID": "004",
+            "isVideo": false,
             "title": "Channel 4",
             "imageURL": "https://cdn.pixabay.com/photo/2021/09/26/20/49/world-6658881__340.jpg",
             "category": "Education",
@@ -70,7 +74,6 @@
     "channel_content": [
         {
             "ownerID": "001",
-            "isVideo": false,
             "title": "Channel_Content 1",
             "image_thumbnail": "https://cdn.pixabay.com/photo/2020/04/20/18/10/cinema-5069314__340.jpg",
             "description": "This is content 1",
@@ -82,7 +85,6 @@
         },
         {
             "ownerID": "001",
-            "isVideo": true,
             "title": "Channel_Content 2",
             "image_thumbnail": "https://cdn.pixabay.com/photo/2016/11/15/07/09/photo-manipulation-1825450__340.jpg",
             "description": "This is content 2",
@@ -95,7 +97,6 @@
         },
         {
             "ownerID": "002",
-            "isVideo": false,
             "title": "Channel_Content 1",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329583",
             "description": "This is content 1",
@@ -107,7 +108,6 @@
         },
         {
             "ownerID": "002",
-            "isVideo": true,
             "title": "Channel_Content 2",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-6366",
             "description": "This is content 1",
@@ -119,7 +119,6 @@
         },
         {
             "ownerID": "003",
-            "isVideo": false,
             "title": "Channel_Content 1",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329585",
             "description": "This is content 1",
@@ -131,7 +130,6 @@
         },
         {
             "ownerID": "003",
-            "isVideo": true,
             "title": "Channel_Content 2",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329593",
             "description": "This is content 1",
@@ -143,7 +141,6 @@
         },
         {
             "ownerID": "004",
-            "isVideo": false,
             "title": "Channel_Content 1",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-329598",
             "description": "This is content 1",
@@ -155,7 +152,6 @@
         },
         {
             "ownerID": "004",
-            "isVideo": true,
             "title": "Channel_Content 2",
             "image_thumbnail": "https://wallpaperaccess.com/download/movie-37943",
             "description": "This is content 1",
