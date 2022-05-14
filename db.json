@@ -79,6 +79,7 @@
             "description": "This is content 1",
             "time_created": "2 March",
             "views": 5000,
+            "location": "https://firebasestorage.googleapis.com/v0/b/new-klimax.appspot.com/o/Falz-x-Dice-Ailes-Alakori.mp3?alt=media&token=ed80e8b3-e825-486a-ab15-d8e02bf46fba",
             "category": [
                 "Crime"
             ]
@@ -90,6 +91,7 @@
             "description": "This is content 2",
             "time_created": "27 December",
             "views": 43000,
+            "location": "https://assets.mixkit.co/music/preview/mixkit-hazy-after-hours-132.mp3",
             "category": [
                 "Crime",
                 "Drama"
@@ -102,6 +104,7 @@
             "description": "This is content 1",
             "time_created": "3 February",
             "views": 1000,
+            "location": "https://firebasestorage.googleapis.com/v0/b/new-klimax.appspot.com/o/Stuff%20-%20Made%20to%20Travel%20-%2030%20-%20Expedia.mp4?alt=media&token=76fb3139-8a6c-47b9-97c9-bab53af64a70",
             "category": [
                 "Comedy"
             ]
@@ -113,6 +116,7 @@
             "description": "This is content 1",
             "time_created": "7 April",
             "views": 500,
+            "location": "https://firebasestorage.googleapis.com/v0/b/new-klimax.appspot.com/o/Nature%20Beautiful%20short%20video%20720p%20HD.mp4?alt=media&token=96065745-e045-494f-91cb-2ceacbd0cf21",
             "category": [
                 "Comedy"
             ]
@@ -124,6 +128,7 @@
             "description": "This is content 1",
             "time_created": "27 June",
             "views": 500000,
+            "location": "https://firebasestorage.googleapis.com/v0/b/new-klimax.appspot.com/o/Motivational%20short%20video%20-%20How%20to%20succeed%20-%20cartoon.mp4?alt=media&token=ed326df5-8399-459d-9f74-60eb4a2ba5f9",
             "category": [
                 "Comedy"
             ]
@@ -135,6 +140,7 @@
             "description": "This is content 1",
             "time_created": "2 April",
             "views": 12000,
+            "location": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4",
             "category": [
                 "Comedy"
             ]
@@ -146,6 +152,7 @@
             "description": "This is content 1",
             "time_created": "24 May",
             "views": 2000,
+            "location": "https://assets.mixkit.co/music/preview/mixkit-hip-hop-02-738.mp3",
             "category": [
                 "Comedy"
             ]
@@ -157,6 +164,7 @@
             "description": "This is content 1",
             "time_created": "27 April",
             "views": 50,
+            "location": "https://assets.mixkit.co/music/preview/mixkit-tech-house-vibes-130.mp3",
             "category": [
                 "Comedy"
             ]
